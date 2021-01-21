@@ -50,3 +50,13 @@ var numberTwo = 7
 var comparison = numberOne > numberTwo
 
 print(comparison)
+
+//using "equals to" operator
+
+var firstString = 6
+
+var secondString = 6
+
+var equals = firstString == secondString
+
+print(equals)
